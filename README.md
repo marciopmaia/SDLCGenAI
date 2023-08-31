@@ -3,4 +3,16 @@
 This will be the project for SDLC updates
 
 TODO Add sections for each project that will be under here
-##
+## GENERATE USER STORIES
+
+## GENERATE MANUAL TEST CASES
+
+## GENERATE AUTOMATION SCRIPTS
+
+## GENERATE APPLICATION CODE
+
+## GENERATE INFRASTRUCTURE AS CODE
+
+## GENERATE UML DIAGRAM
+
+## SUMMARIZE DOCUMENT
