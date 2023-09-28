@@ -1,6 +1,8 @@
 # SDLCGenAI
 
-This will be the project for SDLC updates
+This will be the project for SDLC updates.
+
+Initial front end code will be functionality over looks.
 
 ## GENERATE Agile Best Practices
 - Requirement Writing
